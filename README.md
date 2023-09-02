@@ -9,10 +9,7 @@ The database is hosted on the Heroku.
 ## Database files
 The liquid-db folder contains the three files. LiquidDetailedEDR.png and LiquidSiplifiedERD.jpg present Entity Relationship Diagram. 
 liquid_tables.sql file contains script creating the basic database tables.
-## Dataclips - a glance at the database
-* Some reviews - https://data.heroku.com/dataclips/zkvzjnkegugugidotbqoqwxqmixl,
-* Orders - https://data.heroku.com/dataclips/wldlilmaorflkajnrhmiqdzuruip,
-* User game library - https://data.heroku.com/dataclips/nvstkypnuwormrobkbeskqkdiupu.
+
 # 🔬 Django Rest Api
 ## Documentation
 Documentation link: https://documenter.getpostman.com/view/15470371/Uz5Kjtqu#b98a42d7-98e8-4a83-a46a-bfc67a4c2754
